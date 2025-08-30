@@ -24,9 +24,9 @@ body {
 /* Container centralizado */
 .container {
   width: 100%;
-  max-width: 360px;
+  max-width: 500px;
   padding: 15px;
-  margin: 0 auto;
+  margin: center;
 }
 /* Cartão de convite  */
 .invitation-card {
@@ -36,7 +36,7 @@ body {
   text-align: center;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   width: 100%;
-  max-width: 320px;
+  max-width: 600px;
   color: white;
   margin: 10px;
 }
