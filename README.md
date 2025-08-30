@@ -1,4 +1,4 @@
-# 🎉 Convite de Aniversário da Alexandra
+# 🎉 Convite de Aniversário 
 
 Este é um convite digital personalizado feito em HTML, CSS e JavaScript. Ele permite que os convidados confirmem presença e enviem automaticamente a confirmação via WhatsApp com uma mensagem personalizada.
 
